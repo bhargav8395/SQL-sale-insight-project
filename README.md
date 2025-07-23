@@ -1,0 +1,1 @@
+# SQL-sale-insight-project
